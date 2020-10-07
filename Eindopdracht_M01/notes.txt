@@ -1,0 +1,35 @@
+Te doen
+
+1.
+- Folder maken
+- Beelden toevoegen
+- Beelden hernoemen en linken
+- logo maken
+
+2.
+- Navbar 4 links en een logo
+
+3.
+- Home page
+  - Beelden
+  - Titel
+  - Omschrijving
+  - links naar andere pagina's/websites
+
+4.
+- Product page 
+  - Product item grid
+  - Beelden
+  - Titel
+  - Omschrijving
+
+5.
+- About page
+  - Artists
+  - Beelden
+  - Omschrijving
+
+6.
+- Contact page
+  - Beeld
+  - Formulier
